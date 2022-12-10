@@ -12,8 +12,7 @@
 <p align="center">
     <a href="https://www.kaggle.com/datasets/vedavyasv/usa-housing">USA Housing Dataset</a>
 </p>
-
-<h1 align="center">  Installation </h2>
+<h1 align="center">  Models </h2>
 <p align="center">
-    
+    <a href="https://github.com/Abubakr1710/Machine-Learning/tree/main/Linear%20Regression">Linear Regression/a>
 </p>
