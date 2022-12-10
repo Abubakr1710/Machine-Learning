@@ -11,8 +11,10 @@
 <h1 align="center">  Datasets </h2>
 <p align="center">
     <a href="https://www.kaggle.com/datasets/vedavyasv/usa-housing">USA Housing Dataset</a>
+    <a href="https://www.kaggle.com/competitions/titanic/data">Titanic Dataset</a>
 </p>
 <h1 align="center">  Models </h2>
 <p align="center">
     <a href="https://github.com/Abubakr1710/Machine-Learning/tree/main/Linear%20Regression">Linear Regression</a>
+    <a href="https://github.com/Abubakr1710/Machine-Learning/tree/main/Logistic%20Regression">Logistic Regression</a>
 </p>
