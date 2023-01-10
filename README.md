@@ -17,5 +17,6 @@
 <h1 align="center">  Models </h1>
 <p align="center">
     <a href="https://github.com/Abubakr1710/Machine-Learning/tree/main/Linear%20Regression">Linear Regression</a></br>
+    <a href="https://github.com/Abubakr1710/Machine-Learning/tree/main/Logistic%20Regression%20from%20scratch">Logistic Regression from Scratch</a></br>
     <a href="https://github.com/Abubakr1710/Machine-Learning/tree/main/Logistic%20Regression">Logistic Regression</a></br>
 </p>
