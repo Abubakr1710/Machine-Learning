@@ -22,10 +22,9 @@
 </p>
 <h1 align="center"> Installations </h1>
 <p align="center">
-If you are using anaconda environment search on the web: conda library_name
-I suggest creating a virtual environment and installing the libraries there.
-
-1. **Create** new environment using this command: **python3 -m venv your_environment_name**
-2. **Activate** the environment using this command: **source your_environment_name/bin/activate**
-3. **Install** following libraries **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn** using **pip install library_name**
+1.If you are using anaconda environment search on the web: conda library_name
+2.I suggest creating a virtual environment and installing the libraries there.
+3. **Create** new environment using this command: **python3 -m venv your_environment_name**
+4. **Activate** the environment using this command: **source your_environment_name/bin/activate**
+5. **Install** following libraries **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn** using **pip install library_name**
 </p>
